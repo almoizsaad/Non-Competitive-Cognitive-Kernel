@@ -1,0 +1,7 @@
+{
+  "total_cases_processed": 10000,
+  "total_simulation_time_seconds": 0.32560062408447266,
+  "average_case_processing_time_ms": 0.014767599105834962,
+  "min_case_processing_time_ms": 0.0059604644775390625,
+  "max_case_processing_time_ms": 3.451108932495117
+}

@@ -1,0 +1,19 @@
+Custom Research License (v1.0)
+© 2025 Almoiz Saad Yousuf Mohamed
+
+This software and associated files are released for academic and research purposes only.
+
+Permission is granted to view, download, and reproduce this software solely for non-commercial, educational, or research-based analysis.
+
+You may NOT:
+- Use this software for commercial or for-profit activities.
+- Modify or create derivative works without prior written permission from the author.
+- Redistribute the software or substantial portions of it without permission.
+- Use this model, in part or in whole, in any system intended for deployment, production, or profit-making scenarios.
+
+Proper credit and citation of the associated research paper is required in any use.
+
+For licensing inquiries or extended permissions, please contact:
+📧 almoiz.mo.yousuf@gmail.com
+
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
