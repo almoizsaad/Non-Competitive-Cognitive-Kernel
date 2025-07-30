@@ -1,0 +1,12 @@
+{
+  "dominance_flags": ["dominate", "control", "surpass", "replace", "exploit"],
+  "ethical_scores": {
+    "exploit": 0.3,
+    "assist": 0.9,
+    "support": 0.85,
+    "collaborate": 0.8,
+    "enhance": 0.7,
+    "replace": 0.2
+  },
+  "default_score": 0.6
+}
