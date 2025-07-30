@@ -21,25 +21,7 @@ This repository hosts a **deployable prototype** of the NCCK model, demonstratin
 * `analyze_results.py`: Processes the simulation results to generate a visual summary and insights into the model's performance.
 * `test_cases.json`: An example dataset containing various input scenarios used for testing the NCCK model.
 
-## Installation
 
-To get started with the NCCK deployable prototype, follow these steps:
-
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/YourUsername/NCCK.git](https://github.com/YourUsername/NCCK.git)
-    cd NCCK
-    ```
-2.  **Create a virtual environment (recommended):**
-    ```bash
-    python -m venv venv
-    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-    ```
-3.  **Install dependencies:**
-    ```bash
-    pip install -r requirements.txt # (Assuming you will create a requirements.txt file)
-    ```
-    *If you don't have a `requirements.txt` file, you might need to list direct dependencies here, e.g., `pip install pandas matplotlib` if used for analysis.*
 
 ## Usage
 
