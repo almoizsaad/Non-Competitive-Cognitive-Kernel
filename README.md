@@ -1,6 +1,7 @@
 # NCCK - Non-Competitive Cognitive Kernel: A Biologically Inspired AI Safety Model
 
-[![License: Custom Non-Commercial Research](https://img.shields.io/badge/License-Custom%20Non--Commercial%20Research-blue.svg)]([./LICENSE.md](https://github.com/almoizsaad/Non-Competitive-Cognitive-Kernel/blob/master/LICENSE.txt))
+[![License: Custom Non-Commercial Research](https://img.shields.io/badge/License-Custom%20Non--Commercial%20Research-blue.svg)](https://github.com/almoizsaad/Non-Competitive-Cognitive-Kernel/blob/master/LICENSE.txt)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16653515.svg)](https://doi.org/10.5281/zenodo.16653515)
 
 This project implements the core components of the Non-Competitive Cognitive Kernel (NCCK) model, proposed by Almoiz Saad Yousuf Mohamed. NCCK represents a novel approach to AI safety, simulating a non-competitive, ethically-aligned AI reasoning engine. Its design is deeply inspired by cooperative biological systems, such as elephants and other species that exhibit intrinsic mechanisms preventing dominance-driven or exploitative behaviors.
 
